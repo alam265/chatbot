@@ -1,0 +1,643 @@
+Source URL: https://www.bracu.ac.bd/about/people/mohammad-kaykobad-phd
+Page Title: Mohammad Kaykobad, PhD | BRAC University
+
+Mohammad Kaykobad, PhD | BRAC University
+Skip to main content
+I'm looking for:
+Find your Program:
+Mohammad Kaykobad, PhD
+Distinguished Professor
+Department of Computer Science and Engineering
+kaykobad@bracu.ac.bd
+Kha-224 Merul Badda
+Dhaka 1212. Bangladesh
+Professor Kaykobad
+served as a Professor of the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET) from 1997 onwards. He was awarded the Gold Medal for contribution to ICT Education by the Bangladesh Computer Society in 2005. In 2006 he won the Bangladesh Academy of Science’s Gold Medal for physical sciences. He was a pioneer in introducing competitive programming to Bangladesh. He led the BUET team to the ACM Finals numerous times and his 2000 team finished 11th in the world in 2000. He was awarded the Best Coach Award at the ACM ICPC Finals in 2002. In 2013 he was awarded the Senior Coach Award at the ACM ICPC Finals in St. Petersburg. He was also responsible for starting the Math Olympiad and Informatics Olympiad and Science Olympiad in Bangladesh. He has worked as a Director of the Dhaka and Chittagong Stock Exchanges for many years and is a member of the Academic Councils and Syndicates of several universities.
+Dr. Kaykobad was a Visiting Professor at the Department of Computer Science and Engineering, the Chinese University of Hong Kong during the years 2000 and 2001.
+The Flinders University of South Australia, Australia
+, Computer Applications Technology, 1980-82
+Asian Institute of Technology, Thailand
+M.S (Hons)
+in Engg., Automated Management of Merchant Marine, 1973-79
+Odessa Marine Engg. Institute.
+Karim, M. A.,
+Kaykobad, M.
+, & Murshed, M. (2013).
+Technical challenges and design issues in Bangla language processing
+Technical Challenges and Design Issues in Bangla Language Processing
+. Old Dominion University, Virginia, United States: IGI Global.
+https://doi.org/10.4018/978-1-4666-3970-6
+Hafiz, M., Rahman, M. S., Ali, M. E., &
+System analysis and design-A practitioner’s approach
+. Dhaka: Bangladesh University Grants Commission.
+Medhabi Manusher Golpo
+Anyoprokash
+. Dhaka: Anyoprokash.
+Iqbal, M. Z., &
+International mathematics olympiad: Problems and solutions
+. Dhaka: Anonya Prokashani.
+Neurone Abaro Onuronon, a collection of brain teasers
+, Ali, M. S., & Ahmed, T. (2002).
+Delightful mathematics â€ brain twister
+. Voyager.
+Computer programming contest and Bangladesh
+Information Technology Management-I
+. Dhaka: Institute of Cost and Management Accountants of Bangladesh (ICMAB).
+Information Technology Management-II
+Book Chapters
+Murshed, M. M., Syed, M. R., &
+(2011). A linguistically sortable Bengali coding system and its application in spell checking. In M. R. Syed (Ed.),
+Interactive Multimedia Systems
+(pp. 251–258). Pennsylvania, USA: IGI Global.
+https://doi.org/10.4018/978-1-931777-07-0.ch014
+Rahman, M. S., Rahman, M. K., Saha, S.,
+, & Rahman, M. S. (2019). Antigenic: An improved prediction model of protective antigens.
+Artificial Intelligence in Medicine
+https://doi.org/10.1016/j.artmed.2018.12.010
+Rahman, M. S., Rahman, M. K.,
+, & Rahman, M. S. (2018). isGPT: An optimized model to identify sub-Golgi protein types using SVM and Random Forest based feature selection.
+https://doi.org/10.1016/j.artmed.2017.11.003
+Rahman, M. S., Shatabda, S., Saha, S.,
+, & Rahman, M. S. (2018). DPP-PseAAC: A DNA-binding protein prediction model using Chou’s general PseAAC.
+Journal of Theoretical Biology
+https://doi.org/10.1016/j.jtbi.2018.05.006
+Rahman, M. S., Uddin, M. Y. S., Hasan, T., Rahman, M. S., &
+(2018). Using adaptive heartbeat rate on long-lived TCP connections.
+IEEE/ACM Transactions on Networking
+(1), 203–216.
+https://doi.org/10.1109/TNET.2017.2774275
+Moosa, J. M., Shakur, R.,
+, & Rahman, M. S. (2016). Gene selection for cancer classification with the help of bees.
+BMC Medical Genomics
+https://doi.org/10.1186/s12920-016-0204-7
+Iqbal, S.,
+, & Rahman, M. S. (2015). Solving the multi-objective vehicle routing problem with soft time windows with the help of bees.
+Swarm and Evolutionary Computation
+https://doi.org/10.1016/j.swevo.2015.06.001
+Rahman, M. S.,
+, & Firoz, J. S. (2014). New sufficient conditions for Hamiltonian paths.
+Scientific World Journal
+https://doi.org/10.1155/2014/743431
+, & Kaykobad, M. T. (2013). Bipartite Graphs, Hamiltonicity and Z graphs.
+Electronic Notes in Discrete Mathematics
+, 307–312.
+https://doi.org/10.1016/j.endm.2013.10.048
+Hasan, M. M., Shahjalal, M., &
+(2011). An in-place heapsort algorithm requiring n log n + n log* n - 0.546871n comparisons.
+International Journal of Computer Mathematics
+(16), 3350–3360.
+https://doi.org/10.1080/00207160.2011.600449
+Hasan, M. K.,
+, Lee, Y.-K., & Lee, S. (2010). A comprehensive analysis of degree based condition for Hamiltonian cycles.
+Theoretical Computer Science
+(1), 285–287.
+https://doi.org/10.1016/j.tcs.2009.09.018
+Datta, A., Hossain, M., &
+(2008). An improved MST algorithm for ranking players of a round-robin tournament.
+https://doi.org/10.1080/00207160701332721
+(2007). An modified algorithm for ranking players of a round-robin tournament.
+Mehedy, L., Hasan, M. K., &
+(2007). An improved degree based condition for Hamiltonian cycles.
+Information Processing Letters
+(2), 108–112.
+https://doi.org/10.1016/j.ipl.2006.11.013
+Akbar, M. M., Rahman, M. S.,
+, Manning, E. G., & Shoja, G. C. (2006). Solving the multidimensional multiple-choice knapsack Problem by constructing convex hulls.
+Computers and Operations Research
+(5), 1259–1273.
+https://doi.org/10.1016/j.cor.2004.09.016
+Haque, A.-U., Rahman, M. S., Bakht, M., &
+(2006). Drawing lines by uniform packing.
+Computers and Graphics (Pergamon)
+(2), 207–212.
+https://doi.org/10.1016/j.cag.2006.01.026
+Islam, T. M., &
+(2006). Worst-case analysis of generalized heapsort algorithm revisited.
+(1), 59–67.
+https://doi.org/10.1080/00207160500113272
+Rahman, M. S., &
+(2005). On hamiltonian cycles and hamiltonian paths.
+(1), 37–41.
+https://doi.org/10.1016/j.ipl.2004.12.002
+(2005). Complexities of some interesting problems on spanning trees.
+(2), 93–97.
+https://doi.org/10.1016/j.ipl.2004.12.016
+Imam, T., &
+(2005). A new symbolic substitution based addition algorithm.
+Computers and Mathematics with Applications
+(8–9), 1303–1310.
+https://doi.org/10.1016/j.camwa.2005.06.006
+(2004). Independence number and degree bounded spanning tree.
+Applied Mathematics E - Notes
+, 122–124. Retrieved from
+https://www.emis.de/journals/AMEN/2004/031115.pdf
+(2004). Symbolic substitution basedcanonical recoding algorithms.
+(10–11), 1541–1548.
+https://doi.org/10.1016/j.camwa.2004.05.008
+Manob, A. H., Islam, T. M., Parvez, M. T., &
+(2004). Search trees and stirling numbers.
+(5–6), 747–754.
+https://doi.org/10.1016/j.camwa.2004.03.005
+Abdul Mannan, M., &
+(2003). Block Huffman coding.
+(10–11), 1581–1587.
+https://doi.org/10.1016/S0898-1221
+(03)90193-3
+Rahman, M. Z., Chowdhury, R. A., &
+(2003). Improvements in double ended priority queues.
+(9), 1121–1129.
+https://doi.org/10.1080/207160310001599079
+Ahmed, M.,
+, & Chowdhury, R. A. (2003). A new string matching algorithm.
+(7), 825–834.
+https://doi.org/10.1080/0020716031000087113
+Chowdhury, R. A.,
+, & King, I. (2002). An efficient decoding technique for Huffman codes.
+(6), 305–308.
+https://doi.org/10.1016/S0020-0190
+(01)00243-5
+Chowdhury, R. A., Rahman, M. Z., &
+(2002). The bounds of min-max pair heap construction.
+(6–7), 911–916.
+(01)00331-5
+Chowdhury, R. A., &
+(2001). Sorting using heap structure.
+(3), 347–354.
+Chowdhury, R. A., Nath, S. K., &
+(2000). The heap-mergesort.
+(7–8), 193–197.
+https://doi.org/10.1016/s0898-1221
+(00)00075-4
+(2000). Calculating the square root with arbitrary order of convergence.
+(3), 297–302.
+https://doi.org/10.1080/00207160008804985
+Nath, S. K., Chowdhury, R. A., &
+(2000). Min-Max Fine Heaps.
+. Retrieved from
+https://arxiv.org/abs/cs/0007043
+, & Nath, S. K. (2000). A simplified complexity analysis of McDiarmid and Reed’s variant of BOTTOM-UP-HEAPSORT.
+(3), 293–297.
+https://doi.org/10.1080/00207160008804896
+(1999). On average edge length of minimum spanning trees.
+(5), 241–243.
+(99)00068-X
+Rahman, A. F. R., &
+(1998). A complete bengali OCR: A novel hybrid approach to handwritten bengali character recognition.
+Journal of Computing and Information Technology
+(4), 395–413.
+, Humayun, S. M., & Ullah, M. S. (1998). Comparative study of different compression algorithms.
+Journal of Electrical Engineering
+, Humayun, S. M., & Ullah, M. S. (1998). An approach to Bangla text analysis.
+(I & II), 39–42.
+, Chowdhury, R. A., & Hoque, M. S. (1998). Mode-finding algorithms revisited.
+(3–4), 253–263.
+https://doi.org/10.1080/00207169808804722
+, Islam, M. M., Amyeen, M. E., & Murshed, M. M. (1998). 3 is a more promising algorithmic parameter than 2.
+(6), 19–24.
+(98)00158-8
+, Hoque, M. S., Akbar, M. M., & Nath, S. K. (1997). An efficient preprocessor for solving systems of linear equations.
+(3–4), 309–315.
+https://doi.org/10.1080/00207169708804593
+, & Majumdar, A. A. K. (1996). An iterative algorithm for the 5-peg tower of Hanoi problem.
+Journal of Bangladesh Academy of Sciences
+(2), 119–128.
+Manzur Murshed, M., &
+(1996). Seek distances in two-headed disk systems.
+(4), 205–209.
+https://doi.org/10.1016/0020-0190
+(95)00191-3
+, Ahmed, Q. N. U., Shafiqul Khalid, A. T. M., & Bakhtiar, R. -a. (1995). A new algorithm for ranking players of a round-robin tournament.
+(2), 221–226.
+https://doi.org/10.1016/0305-0548
+(94)E0024-2
+, & Khan, M. S. (1995). On the performance of simplex algorithm.
+IPE Research Bulletin
+, Rahman, S. .-. U., Bakhtiar, R.-. A., & Majumdar, A. A. K. (1995). A recursive algorithm for the multi-peg tower of hanoi problem.
+(1–2), 67–73.
+https://doi.org/10.1080/00207169508804412
+, & Hassan, H. M. (1993). An algorithm for designing Boolean functions with exclusive-or(EX-OR) & AND logic elements.
+Journal of Bangladesh Computer Society
+(1), 49–51.
+, & Hassan, H. M. (1993). Minimization procedure for determination of polarized polynomial form.
+(1), 27–29.
+, Ahmed, Q. N. U., Khalid, A. T. M. S., & Bakhtiar, R. (1991). An algorithm for ranking players in a round-robin tournament.
+(1), 20–21.
+Ahsan, M. H.,
+, & Ali, S. (1991). Variational Monte Carlo calculations for the binding energy of Si31.
+Physical Review C
+(1), 146–151.
+https://doi.org/10.1103/PhysRevC.43.146
+(1989). Towers of Hanoi with 4 pegs.
+(1988). On polytopes with large number of vertices.
+GANIT: Journal of Bangladesh Mathematical Society
+(1), 47–52.
+(1987). On nonnegative factorization of matrices.
+Linear Algebra and Its Applications
+https://doi.org/10.1016/0024-3795
+(87)90334-X
+(1985). Positive solutions of positive linear systems.
+(C), 133–140.
+(85)90271-X
+(1985). Positive solutions of a class of linear systems.
+(C), 97–105.
+(85)90146-6
+Ananina, V. Z., &
+(1980). Generalized model of optimum usage of technical resources of a port.
+Economics and Management of Marine Transport
+Tarasova, I. P., &
+(1978). On the method of solving the tasks of optimum planning in conditions of incomplete information.
+Conferences
+, & Alim Al Islam, A. B. M. (2019). A new approach for selecting aggregated multicast trees to reduce forwarding states. In
+5th International Conference on Networking, Systems and Security, NSysS 2018
+. Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/NSysS.2018.8631387
+Islam, M., Nurain, N.,
+, Chellappan, S., & Alim Al Islam, A. B. M. (2019). HEliOS: Huffman coding based lightweight encryption scheme for data transmission. In
+16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, MobiQuitous 2019
+(pp. 70–79). Houston, Texas: ACM.
+https://doi.org/10.1145/3360774.3360829
+Rahman, M. S., Uddin, Y. S., Rahman, M. S., &
+(2016). Using adaptive heartbeat rate on long-lived TCP connections. In
+International Conference on Networking Systems and Security, NSysS 2016
+(pp. 1–9). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/NSysS.2016.7400700
+Shahjalal, M., &
+(2014). A new data structure for heapsort with improved number of comparisons. In
+1st Workshop on Algorithms and Computation 2007, WALCOM 2007
+(pp. 88–96). Dhaka, Bangladesh: Bangladesh Academy of Sciences (BAS).
+Chowdhury, N. M. M. K., Akbar, M. M., &
+(2014). DiskTrie: An efficient data structure using flash memory for mobile devices. In
+(pp. 76–87). Dhaka,Bangladesh: Bangladesh Academy of Sciences (BAS).
+(2013). Bangladesh olympiads in informatics. In
+25th International Olympiad in Informatics, IOI 2013
+(Vol. 7, pp. 163–167). Brisbane, Australia: Vilnius University.
+, & Firoz, J. S. (2012). New sufficient conditions for Hamiltonian paths. In
+15th International Conference on Computer and Information Technology, ICCIT 2012
+(pp. 21–25). Chittagong, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCITechn.2012.6509716
+Wahid, M. A.,
+, & Hasan, M. (2010). Kinetisation of view of 3D point set. In
+2010 13th International Conference on Computer and Information Technology, ICCIT 2010
+(pp. 325–330). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCITECHN.2010.5723878
+Saha, S. K., Raihan, A. M., &
+(2010). A finite automaton to represent structure of conjugate and single Bangla letters. In
+2010 2nd International Conference on Education Technology and Computer, ICETC 2010
+(Vol. 5, pp. V520–V522). Shanghai, China: IEEE.
+https://doi.org/10.1109/ICETC.2010.5529953
+, Lee, Y. K., & Lee, S. (2008). A comprehensive analysis of degree based condition for Hamiltonian cycles. In
+11th International Conference on Computer and Information Technology, ICCIT 2008
+(pp. 465–469). Khulna, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCITECHN.2008.4803067
+Chowdhury, N. M. M. K., Akbar, M. M., Chowdhury, M. N. M. M. K., Akba, M. M., &
+(2007). An efficient data structure using flash memory for mobile devices. In
+Proceedings of Workshop on Algorithms and Computation (WALCOM 2007)
+(pp. 76–87). Dhaka, Bangladesh: Bangladesh Academy of Sciences (BAS).
+Akbar, M. M., Manning, E. G., Rahman, M. S., &
+(2005). Optimal server selection for content routing. In
+20th International Conference on Computers and Their Applications, CATA 2005
+. New Orleans, Louisiana, USA.
+Sohel Rahman, M.,
+, & Rahman, M. S. (2005). A new sufficient condition for the existence of hamiltonian paths. In
+20th International Conference on Computers and Their Applications 2005, CATA 2005
+(pp. 56–59). New Orleans, Louisiana, USA.
+(2004). Set version: A new notion and results. In
+Proceedings of Information Society, 2004, 7th Multi-Conference, Sub-conference: Theoretical Computer Science
+. Slovenia.
+Haque, A., Rahman, M. S., Bakht, M., &
+(2004). Drawing lines by uniform packing. In
+Proceedings of International Conference on Computer and Information Technology (ICCIT)
+(pp. 186–190). Dhaka, Bangladesh.
+Aziz, M. M. A., Hossain, M. F., Faequa, T., &
+(2003). Graceful labeling of trees: Methods and applications. In
+17th International Conference on Computer and Information Technology, ICCIT 2014
+(pp. 92–95). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCITechn.2014.7073154
+Kabir, S., Azad, T., Alam, A. S. M. A., &
+(2003). Effects of unequal bit costs on classical Huffman codes. In
+(pp. 96–101). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCITechn.2014.7073111
+(2003). New symbolic substitution tables and algorithms for the design of a fast addition unit. In
+Proceedings of 6th International Conference on Computer and Information Technology (ICCIT)
+(pp. 98–103). Dhaka, Bangladesh.
+(2003). A new symbolic substitution based approach for the conversion of binary numbers to CMSD numbers. In
+(pp. 170–173). Dhaka, Bangladesh.
+, & Akbar, M. M. (2003). Independence number and Hamiltonicity of graphs. In
+(pp. 150–152). Dhaka, Bangladesh.
+Arifin, S. N., Mehedy, L., &
+(2003). Segmented display for Bangla numerals: Simplicity vs. accuracy. In
+(pp. 119–125). Dhaka, Bangladesh.
+(2003). On Hamillonian cycles and Ilamiltonian paths. In
+(pp. 185–187). Dhaka, Bangladesh.
+Tamal, A. H., Rahman, M. S., Rahman, M. S., &
+(2002). On average length of cycles in complete graphs. In
+Proceedings of 5th International Conference on Computer and Information Technology (ICCIT)
+(pp. 47–49).
+, Majumder, M. M. A., & Haque, A. O. (2002). Graceful labelling of complete binary trees. In
+Proceedings of International Conference on Computer and Information Technolog
+(pp. 32–35).
+, & Hoque, M. T. (2002). Use of phonetic similarity property for Bangla spell checker. In
+Proceedings of International Conference on Computer and Information Technology
+(pp. 182–185).
+, & Hoque, M. T. (2002). Coding system for Bangla spell checker. In
+(pp. 186–190).
+, & Hasan, R. (2002). On calculation of optimal paths in locally restorable bandwidth constrained routing in MPLS networks. In
+(pp. 327–331).
+, Haque, A., Rahman, M. S., & Rahman, M. S. (2002). On average length of cycle in a complete graph. In
+, & Rahman, M. S. (2002). On spanning trees with restricted number of leaves. In
+(pp. 53–54).
+, Mitra, P. P., & King, I. (2002). An improvement to MST algorithm for round-robin tournament ranking. In
+Proceedings of International Conference on Electrical and Computer Engineering
+(pp. 281–283).
+Manob, A. H., &
+(2001). Stirling numbers and two inversion formulas. In
+(pp. 6–8). Dhaka, Bangladesh.
+Mitra, P. P., Hasan, R., &
+(2001). On linear time algorithm for SSP problem. In
+(pp. 9–12). Dhaka, Bangladesh.
+Rouf, M., &
+(2001). Searching objects on lines and rays. In
+(pp. 13–15). Dhaka, Bangladesh.
+Mannan, M. A., &
+(2001). On optimal huffman compression. In
+(pp. 60–61). Dhaka, Bangladesh.
+Mannan, M. A., Chowdhury, R. A., &
+(2001). A storage efficient header for Huffman coding. In
+(pp. 57–59). Dhaka, Bangladesh.
+Shirin, A. K. M., &
+(2001). Query optimization by decomposition of BCNF/3NF relations. In
+(pp. 179–184). Dhaka, Bangladesh.
+Eskander, S., Ahmed, M., &
+(2001). Compression using Huffman coding techniques. In
+(pp. 278–282). Dhaka, Bangladesh.
+, Chowdhury, R., Rahman, M., & Mahmood, N. (2001). On the expected number of probes in AVL trees. In
+, Ahmed, R., & Hossain, M. (2001). Isomorphism of regular graphs. In
+(pp. 290–296).
+, Ahmed, M., & Chowdhury, R. (2001). On partitioning of consecutive integers. In
+(pp. 297–299).
+, Chowdhury, R., & King, I. (2001). An efficient decoding technique for Huffman codes. In
+(pp. 300–301).
+, Nath, S., & Salzborn, F. (2001). The minimum connection time problem. In
+(pp. 302–306).
+, Manzoor, S., & Abedin, M. (2001). On optimal keyboard layout. In
+Proceedings of the International Conference on Computer and Information Technology
+(pp. 21–25).
+, Akbar, M. M., & Hadian, S. (2001). Fault tolerance of distributed multimedia system using quality adaptation. In
+Proceedings of Proceedings of International Conference on Computer and Information Technology,2000
+(pp. 55–59).
+, Mitra, P., & Hasan, R. (2001). A linear time algorithm for single source shortest path problem. In
+(pp. 41–43).
+, & Nath, S. (2001). A simple linear time algorithm for triangulation of a simple polygon. In
+Proceedings of Proceedings of International Conference on Computer and Information Technology, 2000
+(pp. 17–20).
+, & Chowdhury, R. (2001). Sorting using heap structure. In
+Proceedings of International Conference on Computer and Information Technology, 2000
+(pp. 26–30).
+, Rahman, M. Z., & Chowdhury, R. A. (1999). Improvements in double ended priority queues. In
+(pp. 1–5).
+, Nath, S. K., & Chowdhury, R. A. (1999). Min-max fine heaps. In
+(pp. 6–10).
+, Chowdhury, R. A., & Nath, S. K. (1999). On some issues related to LP Problem. In
+(pp. 15–18).
+, Islam, T. M., & Chowdhury, R. A. (1999). On optimal d-huffman tree. In
+(pp. 23–27).
+, Akbar, M. M., & Islam, M. M. (1999). Quick sort using comparators with higher degree. In
+(pp. 28–32).
+, Nath, S. K., Chowdhury, R. A., & Ahmed, M. (1999). Algorithms for solving systems of linear equations. In
+(pp. 33–36).
+, Chowdhury, R. A., Islam, T. M., & Nath, S. K. (1999). On parameters of search trees. In
+(pp. 50–53).
+, Chowdhury, R. A., & Ahmed, M. (1999). A new exact string matching algorithm. In
+(pp. 187–192).
+, & Rahman, A. K. M. A. (1999). A new map method for minimizing boolean expression. In
+Proceedings of International Conference on Computer and Information Technology,
+(pp. 193–196).
+, Akbar, M. M., & Islam, M. M. (1999). Quicksort using higher degree comparators. In
+Proceedings of IASTED Conference on Simulation and Modeling
+. Philadelphia.
+, Murshed, M. M., Rahman, S. M., & Rahman, S. M. (1999). A linguistically sortable coding system and its applications in spell checking: A case study of multilingual applications. In
+Proceedings of the 24th AMSE Annual Conference
+. Virginia, USA.
+Murshed, M. M., &
+(1998). Linguistically sortable Bengali texts: A case study of multilingual applications, in effective utilization and management of emerging information technologies. In
+Proceedings of the 1998 Information Resources Management Association International Conference
+(pp. 795–798). Boston, USA: Idea Grouping Publishing.
+, Rahman, A. F. R., & Sattar, M. A. (1998). A novel hybrid approach to handwritten Bangla character recognition. In
+Proceedings of International Conference on Computational Linguistics, speech and Document Processing
+(pp. A5–A10). Calcutta, India.
+, Akbar, M. M., Azad, A. K. M., & Salzborn, F. J. M. (1998). Complexity of max-cut on special graphs. In
+Proceedings of An International Conference on Computer and Information Technology
+, Nath, S. K., Islam, M. M., Salzborn, F. J. M., & Murshed, M. M. (1998). Majority spanning trees and their applications. In
+, Nath, S. K., & Chowdhury, R. A. (1998). On some classes of spanning trees. In
+(pp. 42–44).
+, & Rahman, A. K. M. A. (1998). Minimizing area cost of On-chip cache memories. In
+(pp. 63–68).
+, & Islam, T. M. (1998). Worst-case analysis of generalized heapsort algorithm revisited. In
+(pp. 224–228).
+, & Azad, A. K. M. (1998). Differential sort(D-Sort):A subtraction-based sorting algorithm. In
+(pp. 234–238).
+(1998). On average edge length of minimum spanning trees. In
+International Conference on Computer and Information Technology
+, & Emran, S. M. (1997). A new approach to solving the closest-pair problem. In
+Proceedings of National Conference on Computer and Information Systems
+(pp. 1–6).
+, Rahman, M. Z., Akbar, M. M., & Murshed, M. M. (1997). Divide and conquer approach in solving system of linear equations. In
+(pp. 7–12).
+, & Rahman, A. K. M. A. (1997). Seek time in replicated two headed disk systems. In
+(pp. 15–20).
+, & Nath, S. K. (1997). An algorithm for ranking objects with weight. In
+(pp. 21–26).
+, Chowdhury, R. A., & Rahman, M. Z. (1997). Improvement in mode-finding algorithms. In
+(pp. 32–37).
+, Chowdhury, R. A., & Islam, T. M. (1997). On merging two heaps. In
+(pp. 44–47).
+, Chowdhury, R. A., & Hakim, M. A. (1997). An iterative method for calculating the square root with arbitrary order of convergence. In
+(pp. 48–51).
+, & Azad, A. K. M. (1997). A variation of mergesort algorithm requiring fewer comparisons. In
+Proceedings of National Conference on Computer and Information Systems,
+(pp. 52–57).
+, Haque, N., & Rahman, S. M. (1997). Retrieval effectiveness of thumbnail transformation. In
+(pp. 161–172).
+Z. Rahman, Ghosh, S., Akbar, M. M.,
+, & Murshed, M. M. (1997). Divide and conquer approach to solving system of linear equations. In
+Proceedings of First National Conference on Computer and Information Systems
+(pp. 7–12). Dhaka, Bangladesh.
+Rahman, A. K. M. A., &
+(1997). Seek time in replicated two-headed disk systems. In
+(pp. 15–20). Dhaka, Bangladesh.
+Khalid, A. T. M. S., &
+(1996). An efficient line algorithm. In G. Cameron, M. Hassoun, A. Jerdee, & C. Melvin (Eds.),
+Proceedings of the 1996 IEEE 39th Midwest Symposium on Circuits & Systems. Part 3 (of 3)
+(Vol. 3, pp. 1280–1282). Ames, IA, USA: IEEE.
+https://doi.org/10.1109/MWSCAS.1996.593157
+(1995). Geometry in solving systems of linear equations. In
+Proceedings of first International Congress on Muslim Youths and Scholars Innovations and Creative Works
+. Tehran, Iran.
+(1995). A new algorithm for systems of linear equations. In
+Proceedings of Tenth Mathematics Conference
+. Dhaka, Bangladesh: Bangladesh Mathematical Society.
+, Humayun, S. M., & Rahman, S. M. (1990). Standard static huffman code for Bangla alphabet. In
+Proceedings of 15th Annual Bangladesh Science Conference
+(pp. 85–88). Dhaka, Bangladesh.
+, Chowdhury, M. H., & Chowdhury, S. M. M. R. (1990). On optimization of arithmetic computation. In
+15th Annual Bangladesh Science Conference
+(pp. 92–96). Dhaka, Bangladesh.
+(1989). An algorithm for towers of Hanoi with p>=3 Pegs. In
+Proceedings of 14th Annual Bangladesh Science Conference
+. Dhaka, Bangladesh.
+, & Shaheed, M. A. (1989). Some tTechniques for representing and operating on sparse matrices. In
+(p. 14). Dhaka, Bangladesh.
+, & Musa, M. (1989). On the average performance of the heapsort. In
+, Talukder, R. K., & Musa, M. (1989). A VS FORTRAN code for simplex algorithm using column generation technique. In
+(pp. 59–61). Dhaka, Bangladesh.
+, Masum, Z. H., & Musa, M. (1988). On graceful labelling of trees. In
+Proceedings of 13th Annual Bangladesh Science Conference
+(p. 21). Dhaka, Bangladesh.
+, Talukder, R. K., & Musa, M. (1988). An MIP model for transportation problems using subgraph selection. In
+(pp. 19–20). Dhaka, Bangladesh.
+, & Hossain, M. F. (1988). On nonnegative factorization of a class of matrices. In
+(p. 19). Dhaka, Bangladesh.
+Senior Scientific Officer
+Algorithms and Theory
+Conference Papers:
+1. M. Kaykobad, An Algorithm for Towers of Hanoi with p>=3 Pegs. In Proceedings of 14th Annual Bangladesh Science Conference,
+2. M. Kaykobad, Ziaul Hasan Masum, and M. Musa, On Graceful Labelling of Trees. In Proceedings of 13th Annual Bangladesh Science Conference, pages 21, 1988
+3. M. Kaykobad, Ram Krishna Talukder, and M. Musa, An MIP Model for Transportation Problems Using Subgraph Selection. In Proceedings of 13th Annual Bangladesh Science Conference, pages 19-20, 1988
+4. M. Kaykobad, and M. Farhad Hossain, On Nonnegative Factorization of a Class of Matrices. In Proceedings of 13th Annual Bangladesh Science Conference, pages 19, 1988
+5. M. Kaykobad, and M.A. Shaheed, Some Techniques for Representing and Operating on Sparse Matrices. In Proceedings of 14th Annual Bangladesh Science Conference, pages 14, 1989
+6. M. Kaykobad, and M. Musa, On the Average performance of the Heapsort. In Proceedings of 14th Annual Bangladesh Science Conference, pages 14, 1989
+7. M. Kaykobad, Ram Krishna Talukder , and M. Musa, A VS FORTRAN Code for Simplex Algorithm Using Column Generation Technique. In Proceedings of 14th Annual Bangladesh Science Conference, pages 59-61, 1989
+8. M. Kaykobad, S.M. Humayun, and Syed Mahbubur Rahman, Standard Static Huffman Code for Bangla Alphabet. In Proceedings of 15th Annual Bangladesh Science Conference, pages 85-88, 1990
+9. M. Kaykobad, Mahboob Hasan Chowdhury , and S.M.M.R. Chowdhury, On Optimization of Arithmetic Computation. In Proceedings of 15th Annual Bangladesh Science Conference, pages 92-96, 1990
+10. M. Kaykobad, Geometry in Solving Systems of Linear Equations. In Proceedings of first International Congress on Muslim Youths and Scholars Innovations and Creative Works, Tehran, Iran, 1995
+11. M. Kaykobad, A New Algorithm for Systems of Linear Equations. In Proceedings of Tenth Mathematics Conference, Bangladesh Mathematical Society, 1995
+12. M. Kaykobad, and ATM Shafiqul Khalid, An Efficient Line Algorithm. In Proceedings of 39th Midwest Symposium on Circuits and Systems, Iowa State University, Arnes, Iowa, USA, pages 1280-1282, 1996
+13. M. Kaykobad, and S. Masum Emran, A New Approach to Solving the Closest-Pair Problem. In Proceedings of National Conference on Computer and Information Systems, pages 1-6, 1997
+14. M. Kaykobad, M. Ziaur Rahman, Md. Mostofa Akbar, and M. Manzur Murshed, Divide and Conquer Approach in Solving System of Linear Equations. In Proceedings of National Conference on Computer and Information Systems, pages 7-12, 1997
+15. M. Kaykobad, and A.K.M. Ashikur Rahman, Seek Time in Replicated Two Headed Disk Systems. In Proceedings of National Conference on Computer and Information Systems, pages 15-20,1-6, 1997
+16. M. Kaykobad, and Suman Kumar Nath, An Algorithm for Ranking Objects with Weight. In Proceedings of National Conference on Computer and Information Systems, pages 21-26, 1997
+17. M. Kaykobad, Rezaul Alam Chowdhury, and Md. Ziaur Rahman, Improvement in Mode-Finding Algorithms. In Proceedings of National Conference on Computer and Information Systems, pages 32-37, 1997
+18. M. Kaykobad, Rezaul Alam Chowdhury, and Tarique Mesbaul Islam, On Merging Two Heaps. In Proceedings of National Conference on Computer and Information Systems, pages 44-47, 1997
+19. M. Kaykobad, Rezaul Alam Chowdhury, and Md. Abdul Hakim, An Iterative Method for Calculating the Square Root with Arbitrary Order of Convergence. In Proceedings of National Conference on Computer and Information Systems, pages 48-51, 1997
+20. M. Kaykobad, and A.K.M. Azad, A Variation of MergeSort Algorithm Requiring Fewer Comparisons. In Proceedings of National Conference on Computer and Information Systems, pages 52-57, 1997
+21. M. Kaykobad, Nazmul Haque, and Syed M. Rahman, Retrieval Effectiveness of Thumbnail Transformation. In Proceedings of National Conference on Computer and Information Systems, pages 167-172, 1997
+22. M. Z. Rahman, S. Ghosh, Md. Mostofa Akbar, M. Kaykobad, and M. M. Murshed, Divide and Conquer Approach to Solving System of Linear Equations. In Proceedings of First National Conference on Computer and Information Systems,, Dhaka, Bangladesh, pages 7-12, 1997
+23. A.K.M. Ashikur Rahman, and M. Kaykobad, Seek time in replicated two-headed disk systems. In Proceedings of National Conference on Computer and Information Systems, Dhaka, Bangladesh., pages 15-20, 1997
+24. M. Kaykobad, A.F.R. Rahman, and Md. Abdus Sattar, A novel hybrid approach to handwritten Bangla character recognition. In Proceedings of Proc. International Conference on Computational Linguistics, speech and Document Processing,, Calcutta, India, pages A5-A10, 1998
+25. M. Kaykobad, Md. Mostofa Akbar, A.K.M. Azad , and F.J.M. Salzborn, Complexity of Max-Cut on Special Graphs. In Proceedings of An International Conference on Computer and Information Technology, pages 28-32, 1998
+26. M. Kaykobad, Suman Kumar Nath, M. Mamunul Islam, F.J.M. Salzborn, and M.M. Murshed, Majority Spanning Trees and Their Applications. In Proceedings of An International Conference on Computer and Information Technology, pages 33-36, 1998
+27. M. Kaykobad, Suman Kumar Nath, and Rezaul Alam Chowdhury, On Some Classes of Spanning Trees. In Proceedings of An International Conference on Computer and Information Technology, pages 42-44, 1998
+28. M. Kaykobad, and A.K.M. Ashikur Rahman, Minimizing Area Cost of On-Chip Cache Memories. In Proceedings of An International Conference on Computer and Information Technology, pages 63-68, 1998
+29. M. Kaykobad, and Tarique Mesbaul Islam, Worst-Case Analysis of Generalized Heapsort Algorithm Revisited. In Proceedings of An International Conference on Computer and Information Technology, pages 224-228, 1998
+30. M. Kaykobad, and A.K.M. Azad, Differential Sort(D-Sort):A Subtraction-Based Sorting Algorithm. In Proceedings of An International Conference on Computer and Information Technology, pages 234-238, 1998
+31. M. Kaykobad, Md. Mostofa Akbar, A. K. M. Azad, and F. J. M. Salzborn, Complexity of Max Cut on Special Graphs. In Proceedings of International Conference on Computer and Information Technology, pages 28-32, 1998
+32. M. Kaykobad, M. Ziaur Rahman, and Rezaul Alam Chowdhury, Improvements in double ended priority queues. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 1-5, 1999
+33. M. Kaykobad, Suman Kumar Nath, and Rezaul Alam Chowdhury, Min-Max Fine Heaps. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 6-10, 1999
+34. M. Kaykobad, Rezaul Alam Chowdhury, and Sumon Kumar Nath, On some issues related To LP Problem. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 15-18, 1999
+35. M. Kaykobad, Tarique Mesbaul Islam, and Rezaul Alam Chowdhury, On Optimal d-Huffman Tree. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 23-27, 1999
+36. M. Kaykobad, Md. Mostofa Akbar, and M. Mamunul Islam, Quick sort using comparators with higher degree. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 28-32, 1999
+37. M. Kaykobad, Suman Kumar Nath, Rezaul Alam Chowdhury, and Mustaq Ahmed, Algorithms for solving systems of linear equations. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 33-36, 1999
+38. M. Kaykobad, Rezaul Alam Chowdhury, Tarique Mesbaul Islam, and Suman Kumar Nath, On parameters of search trees. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 50-53, 1999
+39. M. Kaykobad, Rezaul Alam Chowdhury, and Mustaq Ahmed, A new exact string matching algorithm. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 187-192, 1999
+40. M. Kaykobad, and A.K.M. Ashikur Rahman, A new map method for minimizing Boolean Expression. In Proceedings of Proceedings of International Conference on Computer and Information Technology, pages 193-196, 1999
+41. A.K.M. Ashikur Rahman, and M. Kaykobad, A new map method for minimizing Boolean Expressions. In Proceedings of International Conference on Computer and Information Technology, Dhaka, Bangladesh, 1999
+42. M. Kaykobad, Md. Mostofa Akbar, and M. Mamunul Islam, Quicksort Using Higher Degree Comparators. In Proceedings of IASTED Conference on Simulation and Modeling, 1999, Philadelphia, 1999
+43. M. Kaykobad, M.M. Murshed, Syed M. Rahman, and S.M. Rahman, A linguistically Sortable Coding System and Its Applications in Spell Checking: A Case Study of Multilingual Applications. In Proceedings of Proceedings of the 24th AMSE Annual Conference, Best Western Hotel, Leesburg, Virginia, USA, 1999
+44. Adib Hassan Manob, and M. Kaykobad, Stirling Numbers and Two Inversion Formulas. In Proceedings of ICCIT2001, pages 6-8, 2001
+45. Pradipta Prometheus Mitra, Ragib Hasan, and M. Kaykobad, On Linear Time Algorithm for SSP Problem. In Proceedings of ICCIT2001, pages 9-12, 2001
+46. Mushfiqur Rouf, and M. Kaykobad, Searching Objects on Lines and Rays. In Proceedings of ICCIT2001, pages 13-15, 2001
+47. Mohammad Abdul Mannan, Rezaul Alam Chowdhury, and M. Kaykobad, A Storage Efficient Header for Huffman Coding. In Proceedings of ICCIT2001, pages 57-59, 2001
+48. M. Abdul Mannan, and M. Kaykobad, On Optimal Huffman Compression. In Proceedings of ICCIT2001, pages 60-61, 2001
+49. Abul Kashem Md. Shirin, and M. Kaykobad, Query Optimization by Decomposition of BCNF/3NF Relations. In Proceedings of ICCIT2001, pages 179-184, 2001
+50. Sawsan Eskander, Mustaq Ahmed, and M. Kaykobad, Compression using Huffman Coding Techniques. In Proceedings of ICCIT2001, pages 278-282, 2001
+51. M. Kaykobad, RA Chowdhury , MZ Rahman , and N Mahmood , On the expected number of probes in AVL trees. In Proceedings of International Conference on Electrical and Computer Engineering, pages 281-283, 2001
+52. M. Kaykobad, R Ahmed , and MA Hossain , Isomorphism of regular graphs. In Proceedings of International Conference on Electrical and Computer Engineering, pages 290-296, 2001
+53. M. Kaykobad, M Ahmed , and RA Chowdhury , On partitioning of consecutive integers. In Proceedings of International Conference on Electrical and Computer Engineering, pages 297-299, 2001
+54. M. Kaykobad, RA Chowdhury , and I. King , An efficient decoding technique for Huffman codes. In Proceedings of International Conference on Electrical and Computer Engineering, pages 300-301, 2001
+55. M. Kaykobad, SK Nath, and FJM Salzborn, The minimum connection time problem. In Proceedings of International Conference on Electrical and Computer Engineering, pages 302-306, 2001
+56. M. Kaykobad, Shahriar Manzoor, and Munirul Abedin, On optimal keyboard layout. In Proceedings of Proceedings of the Intern
+57. M. Kaykobad, Md. Mostofa Akbar, and S. Hadian, Fault tolerance of distributed multimedia system using quality adaptation. In Proceedings of Proceedings of International Conference on Computer and Information Technology, 2000, pages 55-59, 2001
+58. M. Kaykobad, PP Mitra, and R. Hasan, A linear time algorithm for single source shortest path problem. In Proceedings of Proceedings of International Conference on Computer and Information Technology, 2000, pages 41-43, 2001
+59. M. Kaykobad, and SK Nath, A simple linear time algorithm for triangulation of a simple polygon. In Proceedings of Proceedings of International Conference on Computer and Information Technology, 2000, pages 17-20, 2001
+60. M. Kaykobad, and RA Chowdhury, Sorting using heap structure. In Proceedings of Proceedings of International Conference on Computer and Information Technology, 2000, pages 26-30, 2001
+61. A. H. Tamal, M. S. Rahman, M. Sohel Rahman, and M. Kaykobad, On Average Length of Cycles in Complete Graphs. In Proceedings of 5th International Conference on Computer and Information Technology (ICCIT), pages 47-49, 2002
+62. M. Kaykobad, Md Mahbubul Amin Majumder , and ASM Obaidul Haque , Graceful Labelling of Complete Binary Trees. In Proceedings of International Conference on Computer and Information Technology, pages 32-35, 2002
+63. M. Kaykobad, and Md Tamjidul Hoque , Use of Phonetic Similarity Property for Bangla Spell Checker. In Proceedings of International Conference on Computer and Information Technology, pages 182-185, 2002
+64. M. Kaykobad, and Md Tamjidul Hoque , Coding System for Bangla Spell Checke. In Proceedings of International Conference on Computer and Information Technology, pages 186-190, 2002
+65. M. Kaykobad, and Ragib Hasan , On Calculation of Optimal Paths in Locally Restorable Bandwidth Constrained Routing in MPLS Networks. In Proceedings of International Conference on Computer and Information Technology, pages 327-331, 2002
+66. M. Kaykobad, Asif-ul Haque , Mohammad Saifur Rahman, and M. Sohel Rahman, On Average Length of Cycle in a Complete Graph. In Proceedings of International Conference on Computer and Information Technology, pages 47-49, 2002
+67. M. Kaykobad, and M. Sohel Rahman, On Spanning Trees with restricted Number of Leaves. In Proceedings of International Conference on Computer and Information Technology, pages 53-54, 2002
+68. M. Kaykobad, P Prometheus Mitra , and I. King , An Improvement to MST Algorithm for Round-Robin Tournament Ranking. In Proceedings of International Conference on Electrical and Computer Engineering, pages 281-283, 2002
+69. T. Imam , and M. Kaykobad, New Symbolic Substitution Tables and Algorithms for the design of a fast addition unit. In Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), pages 98-103, 2003
+70. T. Imam , and M. Kaykobad, A New Symbolic Substitution Based Approach for the conversion of binary numbers to CMSD numbers. In Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), pages 170-173, 2003
+71. M. Sohel Rahman, M. Kaykobad, and Md. Mostofa Akbar, Independence Number and Hamiltonicity of Graphs. In Proceedings of Computer and Information Technology (ICCIT), pages 150-152, 2003
+72. SM Niaz Arifin , Lenin Mehedy , and M. Kaykobad, Segmented Display for Bangla Numerals: Simplicity vs. Accuracy. In Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), 2003
+73. M. Sohel Rahman, and M. Kaykobad, On Hamiltonian Cycles and Hamiltonian Paths (Conference. In Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), pages 185-187, 2003
+74. M. Sohel Rahman, M. Kaykobad, and Md. Mostofa Akbar, Independence Number and Hamiltonicity of Graphs (Conference. In Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), pages 150-152, 2003
+75. M. Sohel Rahman, and M. Kaykobad, Set Version: A New Notion and Results. In Proceedings of Information Society, 2004, 7th Multi-Conference, Sub-conference: Theoretical Computer Science, Slovenija, 2004
+76. M. Sohel Rahman, and M. Kaykobad, Set Version: A New Notion and Results (Conference. In Proceedings of Proceedings of the Information Society, 2004, 7th Multi-Conference, Sub-conference: Theoretical Computer Science, 2004
+77. Asif-ul Haque, Mohammad Saifur Rahman, Mehedi Bakht, and M. Kaykobad, Drawing Lines by Uniform Packing. In Proceedings of International Conference on Computer and Information Technology (ICCIT), pages 186-190, 2004
+78. M. Sohel Rahman, M. Kaykobad, and Mohammad Saifur Rahman, A New Sufficient Condition for the Existence of Hamiltonian Paths. In Proceedings of 0th International Conference on Computers and Their Applications (CATA), 2005
+79. N.M. Mosharaf Kabir Chowdhury , Md. Mostofa Akbar, and M. N. M. M. K. Chowdhury, Md. Mostofa Akbar, and M. Kaykobad, An Efficient Data Structure using Flash Memory for Mobile Devices. In Proceedings of in the proceedings of WALCOM 2007, Dhaka, pages 76-87, 2007In Proceedings of Workshop on Algorithms and Computation (WALCOM 2007), Dhaka, pages 76-87, 2007
+80. Md Shahjalal , and M. Kaykobad, A New Data Structure for Heapsort with Improved Number of Comparisons. In Proceedings of Workshop on Algorithms and Computation (WALCOM 2007), Dhaka, pages 88-96, 2007
+81. N. M. M. K. Chowdhury, Md. Mostofa Akbar, and M. Kaykobad, An Efficient Data Structure using Flash Memory for Mobile Devices. In Proceedings of in the proceedings of WALCOM 2007, Dhaka, pages 76-87, 2007
+82. M. A. Wahid, M. Kaykobad, and Masud Hasan, Kinetisation of view of 3D point set. In Proceedings of International Conference on Computer and Information Technology (ICCIT), Dhaka,Bangladesh, pages 325-330, 2010
+83. Mohammad Saifur Rahman, Md. Yusuf Sarwar Uddin, M. Sohel Rahman, and M. Kaykobad, Using Adaptive Heartbeat rate on Long-lived TCP Connections. In Proceedings of 2016 International Conference on Networking Systems and Security (NSysS 2016), IEEE, Dhaka, pages 16-24, 2016 [paper link].
+International Conference Papers
+M. Sohel Rahman, M Kaykobad and Mohammad Saifur Rahman, A New Sufficient Condition for the Existence of Hamiltonian Paths, Accepted for Presentation & Publication in the 20th International Conference on Computers and Their Applications (CATA), 2005.
+2. Mohammad Sohel Rahman and M Kaykobad, Set Version: A New Notion and Results, Accepted for Publication and Presentation in the Information Society, 2004, 7th Multi-Conference, Sub-conference: Theoretical Computer Science, Slovenija.
+3. T. Imam and M Kaykobad, New Symbolic Substitution Tables and Algorithms for the design of a fast addition unit, Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), 2003, pp. 98-103.
+4. T. Imam and M Kaykobad, A New Symbolic Substitution Based Approach for the conversion of binary numbers to CMSD numbers, Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), 2003, pp. 170-173.
+5. Mohammad Sohel Rahman, M Kaykobad and M M Akbar, Independence Number and Hamiltonicity of Graphs, Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), 2003, pp. 150-152.
+6. Mohammad Sohel Rahman and M Kaykobad, On Hamiltonian Cycles and Hamiltonian Paths, Proceedings of 6th International Conference on Computer and Information Technology (ICCIT), 2003, pp. 185-187.
+7. Graceful Labelling of Complete Binary Trees, pp. 32-35, International Conference on Computer and Information Technology, December 27-28, 2002(With Md Mahbubul Amin Majumder, ASM Obaidul Haque)
+8. Use of Phonetic Similarity Property for Bangla Spell Checker, pp. 182-185, International Conference on Computer and Information Technology, December 27-28, 2002(With Md Tamjidul Hoque)
+9. Coding System for Bangla Spell Checker, pp. 186-190, International Conference on Computer and Information Technology, December 27-28, 2002(With Md Tamjidul Hoque)
+10. On Calculation of Optimal Paths in Locally Restorable Bandwidth Constrained Routing in MPLS Networks, pp. 327-331, ,International Conference on Computer and Information Technology, December 27-28, 2002(With Ragib Hasan)
+11. On Average Length of Cycle in a Complete Graph, pp. 47-49, International Conference on Computer and Information Technology, December 27-28, 2002(With Asif-ul Haque, Mohammad Saifur Rahman, Mohammad Sohel Rahman)
+12. On Spanning Trees with restricted Number of Leaves, pp. 53-54, International Conference on Computer and Information Technology, December 27-28, 2002(With Mohammad Sohel Rahman)
+13. An Improvement to MST Algorithm for Round-Robin Tournament Ranking, pp.281-283, International Conference on Electrical and Computer Engineering, December 26-28, 2002(With P Prometheus Mitra and I. King)
+14. On the expected number of probes in AVL trees, pp.281-283, International Conference on Electrical and Computer Engineering, January 5-6, 2001(With RA Chowdhury, MZ Rahman, N Mahmood)
+15. Isomorphism of regular graphs, pp. 290-296 International Conference on Electrical and Computer Engineering, January 5-6, 2001(With R Ahmed, MA Hossain)
+16. On partitioning of consecutive integers, pp297-299, International Conference on Electrical and Computer Engineering, January 5-6, 2001 (With M Ahmed, RA Chowdhury)
+17. An efficient decoding technique for Huffman codes, pp. 300-301, International Conference on Electrical and Computer Engineering, January 5-6, 2001 (With RA Chowdhury, I. King)
+18. The minimum connection time problem, pp. 302-306, International Conference on Electrical and Computer Engineering, January 5-6, 2001 (With SK Nath, FJM Salzborn)
+19. Stirling Numbers and Two Inversion Formulas Adib Hassan Manob and M. Kaykobad, ICCIT2001, pp 6-8, 2001.
+20. On Linear Time Algorithm for SSP Problem Pradipta Prometheus Mitra, Ragib Hasan and M. Kaykobad, ICCIT2001, pp 9-12, 2001.
+21. Searching Objects on Lines and Rays, Mushfiqur Rouf and M. Kaykobad, ICCIT2001, pp. 13-15, 2001.
+22. A Storage Efficient Header for Huffman Coding Mohammad Abdul Mannan, Rezaul Alam Chowdhury and M. Kaykobad, ICCIT2001, pp 57-59, 2001.
+23. On Optimal Huffman Compression M. Abdul Mannan and M. Kaykobad, ICCIT2001, pp. 60-61, 2001.
+24. Query Optimization by Decomposition of BCNF/3NF Relations Abul Kashem Md. Shirin and M. Kaykobad, ICCIT2001, pp. 179-184, 2001.
+25. Compression using Huffman Coding Techniques, Sawsan Eskander, Mustaq Ahmed and M Kaykobad, ICCIT2001, pp. 278-282, 2001.
+26. On optimal keyboard layout, pp. 21-25, Proceedings of the International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With Shahriar Manzoor, Munirul Abedin).
+27. Fault tolerance of distributed multimedia system using quality adaptation, pp. 55-59, Proceedings of International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With MM Akbar, S. Hadian)
+28. Block Huffman coding, pp. 60-64, Proceedings of International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With MA Mannan)
+29. A linear time algorithm for single source shortest path problem, pp. 41-43, Proceedings of International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With PP Mitra, R. Hasan)
+30. A simple linear time algorithm for triangulation of a simple polygon, pp. 17-20, Proceedings of International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With SK Nath)
+31. Sorting using heap structure, pp. 26-30, Proceedings of International Conference on Computer and Information Technology, 2000 held during 25-26 January, 2001(With RA Chowdhury)
+32. Quicksort Using Higher Degree Comparators, IASTED Conference on Simulation and Modeling, 1999, Philadelphia, May 5-8, 1999.(with Md. Mostofa Akbar and M. Mamunul Islam)
+33. A linguistically Sortable Coding System and Its Applications in Spell Checking: A Case Study of Multilingual Applications, Proceedings of the 24th AMSE Annual Conference, Oct. 30, 1999, Best Western Hotel, Leesburg, Virginia, USA(With M.M. Murshed, Syed M. Rahman and S.M. Rahman)
+34. Improvements in double ended priority queues, pp. 1-5, Proceedings of International Conference on Computer and Information Technology, 1999 (With M. Ziaur Rahman, Rezaul Alam Chowdhury)
+35. Min-Max Fine Heaps, pp. 6-10, Proceedings of International Conference on Computer and Information Technology, 1999 (With Suman Kumar Nath, Rezaul Alam Chowdhury)
+36. On some issues related To LP Problem, pp. 15-18, Proceedings of International Conference on Computer and Information Technology, 1999 (With Rezaul Alam Chowdhury, Sumon Kumar Nath)
+37. On Optimal d-Huffman Tree, pp. 23-27, Proceedings of International Conference on Computer and Information Technology, 1999 (With Tarique Mesbaul Islam, Rezaul Alam Chowdhury)
+38. Quick sort using comparators with higher degree, pp. 28-32, Proceedings of International Conference on Computer and Information Technology, 1999 (With Md. Mostafa Akbar, M. Mamunul Islam)
+39. Algorithms for solving systems of linear equations, pp. 33-36, Proceedings of International Conference on Computer and Information Technology, 1999 (With Suman Kumar Nath, Rezaul Alam Chowdhury, Mustaq Ahmed)
+40. On parameters of search trees, pp. 50-53, Proceedings of International Conference on Computer and Information Technology, 1999 (With Rezaul Alam Chowdhury, Tarique Mesbaul Islam, Suman Kumar Nath)
+41. A new exact string matching algorithm, pp. 187-192, Proceedings of International Conference on Computer and Information Technology, 1999 (With Rezaul Alam Chowdhury, Mustaq Ahmed)
+42. A new map method for minimizing Boolean Expression, pp. 193-196, Proceedings of International Conference on Computer and Information Technology, 1999 (With A.K.M. Ashikur Rahman)
+43. A novel hybrid approach to handwritten Bangla character recognition, Proc. International Conference on Computational Linguistics, speech and Document Processing, pp. A5-A10. Calcutta, India, Feb. 18-20, 1998(With A.F.R. Rahman and M.A. Sattar)
+44. An Efficient Line Algorithm, pp. 1280-1282, 39th Midwest Symposium on Circuits and Systems, August 18-21, 1996, Iowa State University, Arnes, Iowa, USA(With ATM Shafiqul Khalid)
+45. Complexity of Max-Cut on Special Graphs, pp. 28-32, An International Conference on Computer and Information Technology, December 18-20, 1998 (With Mostafa Akbar, A.K.M. Azad and F.J.M. Salzborn)
+46. Majority Spanning Trees and Their Applications, pp. 33-36, An International Conference on Computer and Information Technology, December 18-20, 1998 (With Suman Kumar Nath, M. Mamunul Islam, F.J.M. Salzborn and M.M. Murshed)
+47. On Some Classes of Spanning Trees, pp. 42-44, An International Conference on Computer and Information Technology, December 18-20, 1998,(With Suman Kumar Nath and Rezaul Alam Chowdhury)
+48. On Average Edge Length of Minimum Spanning Trees, PP. 52-53, An International Conference on Computer and Information Technology, December 18-20, 1998 (With Suman Kumar Nath and Rezaul Alam Chowdhury)
+49. Minimizing Area Cost of On-Chip Cache Memories, pp. 63-68, An International Conference on Computer and Information Technology, December 18-20, 1998 (With A.K.M. Ashiqur Rahman)
+50. Worst-Case Analysis of Generalized Heapsort Algorithm Revisited, pp. 224-228, An International Conference on Computer and Information Technology, December 18-20, 1998 (With Tarique Mesbaul Islam)
+51. Differential Sort(D-Sort):A Subtraction-Based Sorting Algorithm, pp. 234-238, An International Conference on Computer and Information Technology, December 18-20, 1998 (With A.K.M. Azad)
+52. Geometry in Solving Systems of Linear Equations, presented in the first International Congress on Muslim Youths and Scholars Innovations and Creative Works, held on March 7-9, 1995 at Tehran, Iran.
+53. On discrete optimization, invited lecture, Application of Mathematics, the Proceedings of the First UNESCO Regional Workshop, held at Bahawalpur, Pakistan, (1989) pp. 102-11.
+54. Application of Graph Theory in the Study of Physical Sciences, Book of Abstracts, International Bose Symposium, 1988.(With M.N. Hossain)
+Dr. Kaykobad also held the prestigious IT Scholar Visiting Professorship award at Kyung Hee University, Korea in 2005. He was recognized as the Outstanding Coach at Honolulu, Hawaii in the 26th World Finals of ACM ICPC. He was awarded the best IT teacher award in 2000 by Bangladesh Computer Samitee. In year 2005 he was awarded a Gold Medal by Bangladesh Computer Society for his contribution to computer programming culture in the country. He has also been selected by the Bangladesh Academy of Sciences for the Gold Medal in Physical Sciences among senior scientists for the year 2004. He was also responsible for starting the Math Olympiad and Informatics Olympiad and Science Olympiad in Bangladesh.
+Professor Kaykobad has also published widely and has over 50 international journal articles. He was recognized as a Distinguished Alumnus in 2008 by his alma mater, Flinders University of South Australia. He was a Visiting Professor at the Chinese University of Hong Kong, Korea Advanced Institute of Science (KAIST) and Technology and Kyung Hee University in South Korea, ANU and Monash University in Australia, and Amritapuri University in India.
+Fellow, Bangladesh Academy of Sciences

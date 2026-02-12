@@ -1,0 +1,117 @@
+Source URL: https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd
+Page Title: Mahbubul Alam Majumdar, PhD | BRAC University
+
+Mahbubul Alam Majumdar, PhD | BRAC University
+Skip to main content
+I'm looking for:
+Find your Program:
+Mahbubul Alam Majumdar, PhD
+Professor and Dean, School of Data and Sciences,Department of Computer Science and Engineering
+Professor and Dean, School of Data and Sciences,Department of Mathematics and Natural Sciences
+majumdar@bracu.ac.bd
+Level: 4, Room: 4G33
+Kha-224 Merul Badda
+Dhaka 1212. Bangladesh
+I am a mathematician with a wide array of interests. My interests in computer science are development oriented -- how can we use computer science techniques and compuational power to make the lives of Bangladeshis better?  My academic interests are in string theory, early universe cosmology, quantum computing and machine learning.
+For those wanting to work with me or do a thesis, an outline of my interests is below.
+Computer Science
+Machine Learning
+Computational Finance
+Cryptocurrencies, Blockchain and related ideas
+Quantum Computing, Quantum Algorithms and Cryptography
+Theoretical Physics
+String cosmology
+Black Hole Information Paradox and Quantum Information Theory
+Singularity resolution
+Resurgence and non-perturbative phenomena
+Mathematics
+Elliptic curves, Modular forms and Moonshine
+Game Theory, Auctions and applications of game theory to social sciences
+Sampling techniques and polling
+One of my primary goals is the guiding of  the best mathematical and scientific talent in Bangladesh and the creation of a community of extremely capable Bangladeshi mathematicians, theoretical physicsists and computer scientists. I am MIT's Regional Coordinator and the National Coach of the Bangladesh Mathematical Olympiad Team. I try to contribute to nation-building by injecting technical sophistication into the business and financial spaces and supporting entrepreneurs by finding them financial support and providing technical expertise to turn their ideas into successful companies to create a modern Bangladesh.
+I have taught a wide array of courses ranging from Machine Learning to Number Theory to Quantum Field Theory.
+Thesis Students Supervised (B.Sc. and M.Sc.)
+o Md. Adib Muhtasim, Syeda Ramisa Fariha, Nabila Islam, Rayhan Rashid, “Secure Data Transaction and Data Analysis of IOT Devices Using Blockchain,” December 2017
+o Ashiq Rahman, “Nonperturbative Phenomena in Field Theory and Gravity, and use of Borel Summation to Capture Nonperturbative Information” December 2017
+o Reefat, “The AdS-CFT correspondence and the black hole information paradox,” March 2018
+o Tareq Ahmed, “Information transmission through a quantum information channel,” December 2018
+o Pranjal Chakraborty, Rashad Al Hasan Rony, Ummay Sani Pria, “Predicting Stock Market Movement using Sentiment Analysis of Twitter Feed,” April 2018.
+o Paresha Farastu, Rafiduzzaman Sonnet, Saddat Hasan, Sandipon Paul “Analysis of quantum algorithms,” August 2017
+o Nishat Shama, “A Machine Learning Approach to Predict Crime Using Time and Location Data,” April 2018
+o Tasnim Dewan Orin, “Golpo: implementation of a Bangla chatbot” April 2018
+o Md. Nahid Hasan Himel (
+mnhhimel111@gmail.com
+, Araf Iftekhar (
+aiadnan1993@gmail.com
+), “IT Infrastructure for Economic Zone,” December 2016.
+o Ipshita Bonhi Upoma, “Supersymmetric Gauge Theories as an Application of Group Theory in High Energy Physics and Starobinsky Cosmological Inflation,” April 2016.
+o Noshin Nawwar Sadat, “Implementation of Time Series Approaches to Financial Data,” August 2016
+Previous Years
+o Mishkat Al Alvi, Avik Roy, Moinul Hossain Rahat, “A quantum information theoretic analysis of the black hole information paradox in formulating a nonlocal model for information transfer,” February 2013
+o Raza Sabbir Sufian, “One-Loop Effective Action in M(atrix) Theory,” July 2010
+My personal webpage is:
+http://whereismahbub.com
+. I am very fortunate to be married to Sharmeen Hossain, an investment banker, and someone with a personality orthogonal to my own.
+University of Cambridge
+(Ph.D. Mathematics)
+Stanford University
+Massachusetts Institute of Technology
+Alvi, M. A.,
+Majumdar, M.
+, Matin, M. A., Rahat, M. H., & Roy, A. (2019). Modifications of the page curve from correlations within hawking radiation.
+Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics
+https://doi.org/10.1016/j.physletb.2019.134881
+Al Alvi, M., Matin, M. A., Rahat, M. H., Roy, A., &
+(2014). Comments on information erasure in black hole.
+Modern Physics Letters A
+https://doi.org/10.1142/S0217732314501995
+, & Davis, A.-C. (2004). Inflation from tachyon condensation, large N effects.
+Physical Review D
+(10), 103504–103508.
+https://doi.org/10.1103/PhysRevD.69.103504
+, & Davis, A.-C. (2003). D-brane anti-brane annihilation in an expanding universe.
+Journal of High Energy Physics
+https://doi.org/10.1088/1126-6708/2003/12/012
+, & Davis, A.-C. (2002). Cosmological creation of D-branes and anti-D-branes.
+https://doi.org/10.1088/1126-6708/2002/03/056
+Burgess, C. P.,
+, Nolte, D., Quevedo, F., Rajesh, G., & Zhang, R.-J. (2001). The inflationary brane-antibrane universe.
+https://doi.org/10.1088/1126-6708/2001/07/047
+Davis, A.-C., &
+(1999). Inflation in supersymmetric cosmic string theories.
+Physics Letters B
+(3), 257–262.
+https://doi.org/10.1016/S0370-2693
+(99)00801-1
+Conferences
+Chakraborty, P., Pria, U. S., Rony, M. R. A. H., &
+Majumdar, M. A.
+(2018). Predicting stock movement using sentiment analysis of Twitter feed. In
+6th International Conference on Informatics, Electronics and Vision and 2017 7th International Symposium in Computational Medical and Health Technology, ICIEV-ISCMHT 2017
+(Vol. 2018-Janua, pp. 1–6). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICIEV.2017.8338584
+Muhtasim, M. A., Fariha, S. R., Rashid, R., Islam, N., &
+(2018). Secure data transaction and data analysis of IoT Devices using blockchain. In
+2018 International Conference on Circuits and Systems in Digital Enterprise Technology, ICCSDET 2018
+. Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICCSDET.2018.8821190
+Roy, A., Rahat, M. H., Alvi, M. A.,
+, & Matin, M. A. (2012). A novel parametric bound for information retrieval from black hole radiation. In
+2012 7th International Conference on Electrical and Computer Engineering, ICECE 2012
+(pp. 767–770). Dhaka, Bangladesh: IEEE.
+https://doi.org/10.1109/ICECE.2012.6471663
+After completing Ph.D., he was a post-doc at Imperial College, London. He came to Bangladesh soon afterwards. He eventually joined North South University.  He joined BRAC University in 2014.
+Investment Analysis
+Operations Research & Management Science
+Discrete Mathematics
+General Relativity
+Field Theory
+Group Theory
+Mathematical Physics
+Mathematical Modelling
+Differential Geometry
+Tensor Calculus
+Some things people remember him for…
+National Finalist: Westinghouse Science Talent Search
+National Winner: National Bicentennial Writing Competition
+And numerous regional, state (Washington) and national mathematics awards

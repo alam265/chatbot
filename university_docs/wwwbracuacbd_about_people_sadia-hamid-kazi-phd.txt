@@ -1,0 +1,80 @@
+Source URL: https://www.bracu.ac.bd/about/people/sadia-hamid-kazi-phd
+Page Title: Sadia Hamid Kazi, PhD | BRAC University
+
+Sadia Hamid Kazi, PhD | BRAC University
+Skip to main content
+I'm looking for:
+Find your Program:
+Sadia Hamid Kazi, PhD
+Associate Professor and Chairperson
+Department of Computer Science and Engineering
+skazi@bracu.ac.bd
+Kha-224 Merul Badda
+Dhaka 1212. Bangladesh
+Dr. Sadia Hamid Kazi
+is an Associate Professor in the Computer Science and Engineering Department under the School of Data and Sciences at Brac University. She received her Ph.D. degree in Information Systems with an emphasis on cognitive modeling.
+She has been with Brac University since 2003. Prior to joining BRAC University, she had five years of industry experience. Her research interests lie in the broad areas of Adhoc networking, network security, and cognitive modeling. She was a part of a Malaysian Government initiative under the Exploratory Research Grant Scheme (ERGS), under which she has a patent from the Malaysian IPO authority.
+Conferences
+Kazi, S. H.
+(2016). Relationship and design Model for a web based system utilizing self-directed learning. In
+International Conference on Engineering &Technology, Computer, Basic & Applied Sciences (ECBA 2016)
+. Kuala lumpur, Malaysia.
+Othman, R., Noordin, M. F., Sembok, T. M. T., Kheder, A. M. Z. M., Ibrahim, E. N. M.,
+, & Karim, S. R. A. (2014). Personal learning environment framework for a self-help Maqam-based search system. In
+The 5th International Conference on Information and Communication Technology for The Muslim World (ICT4M)
+(pp. 1–6). Kuching, Malaysia: IEEE.
+https://doi.org/10.1109/ICT4M.2014.7020621
+Sultana, A., Rahman, R., &
+(2010). An XML-based platform independent integrated e-Learning System (IELS) for the rural and remote areas of developing countries. In
+2010 2nd International Conference on Education Technology and Computer, ICETC 2010
+(Vol. 3, pp. V3464–V3468). Shanghai, China: IEEE.
+https://doi.org/10.1109/ICETC.2010.5529500
+(2006). Bridging rural and urban children for ICT sustainability. In
+3rd International Conference on Educational Technology
+. Singapore.
+(2006). Collaborative computing in learning: Feasibility in developing nations. In
+(2006). Muslim women in IT: Working from home. In
+Digital Learning Asia 2006 conference
+. Bangkok, Thailand.
+•    Coordinator and instructor of Cisco Networking Academy® program under BRAC University.
+Other Activities:
+•    Organized a seminar on “Enhancing IT Skills with Cisco Curricula in Bangladesh” in July 2008.
+•    Organized a seminar on “Strategies for inclusion: Gender and the IT workplace” in November 2008
+•    Mentor for UNV- United Nations Volunteer Project from June 2008 till May 2009
+- Introduction to Computer Science Theory
+- Introduction to Computer Science Laboratory
+- Introduction to Computing Theory
+- Introduction to Computing Laboratory
+CSE320/EEE361
+- Data Communications Theory
+- Data Communications Laboratory
+- Database Systems Theory
+- Database Systems Laboratory
+CSE421/EEE465
+- Computer Networks Theory
+- Computer Networks Laboratory
+- System Analysis and Design Theory
+- System Analysis and Design Laboratory
+- Data Communications Laboratory Theory
+- Computer Networks Laboratory Theory
+Other Teaching Experiences
+CCNA Instructor for Cisco Networking Academy
+IRIIE 2014, International Research Invention & Innovation Exhibition, Kuala Lumpur, Malaysia
+ITU ICT 2010, LEARN Global Forum, Busan, Republic of Korea. Funding was provided by ITU (International Telecommunication Union)
+Meeting of the Consortium of Universities 2009, by telecentre.org Academy, Delhi, India
+,Asia Pacific Council Meeting and Workshop, Viet Nam, 2008. Funding provided by Cisco Learning Institute
+SAARC Netacad Council Meeting, Bangalore, 2008. Funding provided by BRAC University
+New Curriculum Implementation and Training Workshop,Thailand, 2007. Funding provided by Cisco Asia Pacific
+Asia Pacific Council Meeting and Workshop, Hong Kong, 2007. Funding provided by Cisco Learning Institute
+ITU-Cisco APAC and Workshop Kuala Lumpur (Malaysia), December 2006. Funding provided by ITU and Cisco Asia Pacific
+•    Instructor Years of Service Award (2013) - In recognition for 5 years of active participation and service in the Cisco Networking Academy® program
+•    Outstanding Contribution Award (2007) - For outstanding contribution and dedication to the Cisco Networking Academy® program in the Asia Pacific Region.
+•    Phi Beta Kappa Award for International Scholars (2001) - For maintaining a good GPA at Georgia State University, USA.
+•    Accenture Award (2001) - First Prize for designing an e-commerce supply chain management application arranged by Accenture, USA.
+•    ITU-Cisco APAC and Workshop Kuala Lumpur (Malaysia), 30 November – 1st December 2006. Funding provided by ITU and Cisco Asia Pacific.
+•    New Curriculum Implementation and Training Workshop held in Thailand, 2007. Funding provided by Cisco Asia Pacific.
+•    Asia Pacific Council Meeting and Workshop held in Hong Kong, 2007. Funding provided by Cisco Learning Institute.
+•    SAARC Council Meeting held in Bangalore, 2008. Funding provided by BRAC University.
+•    Asia Pacific Council Meeting and Workshop held in Viet Nam, 2008. Funding provided by Cisco Learning Institute.
+•    Meeting of the Consortium of Universities, by telecentre.org Academy held 17-18 August 2009 at India Habitat Centre, Delhi.
+•    Attended 2010 ITU ICT•LEARN Global Forum held in Busan, Republic of Korea  in December 2010. Funding was provided by ITU (International Telecommunication Union).

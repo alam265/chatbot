@@ -1,0 +1,165 @@
+Source URL: https://www.bracu.ac.bd/about/people/mohammad-abdul-hoque-phd
+Page Title: Mohammad Abdul Hoque, PhD | BRAC University
+
+Mohammad Abdul Hoque, PhD | BRAC University
+Skip to main content
+I'm looking for:
+Find your Program:
+Mohammad Abdul Hoque, PhD
+BRAC Business School
+abdul.hoque@bracu.ac.bd
+Level: 5, Room: 5A22
+Kha-224 Merul Badda
+Dhaka 1212. Bangladesh
+Md (Mohammad) Abdul Hoque
+had been awarded the degrees of Ph. D. (1994) and M. Sc. (Res.) (1991) in Management Science from Lancaster University Management School, England VIA Common Wealth scholarship. He obtained M. Sc. in Pure Mathematics (
+) in 1979 and B. Sc. Honors in Mathematics (
+) in 1978 from Dhaka University, Bangladesh. He had been trained professionally in Programming languages (C++, PASCAL, BASIC, COBOL) and System Analyses and Design.
+Md Abdul Hoque joined Brac Business School of Brac University as Professor of Supply Chain Management on September 2019. He worked as Professor in Supply Chain Management at North South University (2016 – 2019). He worked as Associate Professor (2008 – 2016) and Senior Lecturer (2004 – 2008) at the Department of Mathematical and Computing Sciences of Universiti Brunei Darussalam. Also, Dr Hoque worked as Senior Lecturer (2002 – 2004) at the School of Mathematical Sciences, Universiti Sains Malaysia. Moreover, he worked at the Department of Mathematics (Lecturer – Professor) of Jahangirnagar University (1987 – 2002) Dhaka Bangladesh. Before that he worked at Dhaka City College. Besides, he had been an adjunct faculty at North South University (2001 -2002) and International University of Business Agriculture and Technology (1995 – 2000).  In addition, he taught as a tutor at Lancaster University for one year.
+He had responsibly undertaken academic management roles as Chairman of the Department of Management of North South University (January’16 – January’18) and the Department of Mathematical and Computing Sciences of Universiti Brunei Darussalam (January’13 – December 15). Besides, he worked as students’ attachment coordinator, academic council members, syllabus committee members, admission committee members, examination committee members, external examiners, etc. both at home and abroad.
+His experience in supervision of research students includes completion of three Ph. D. students and three M. Sc. (res.) students. His research papers have appeared in European Journal of Operational Research, International Journal of Production Economics, International Journal of Production Research, Computers & Operations Research, Journal of the Operations Research Society, Applied Soft Computing, International Journal of System Sciences, Opsearch etc. He has been serving on editorial board of international journals and reviewing of research papers of reputed international journals. He presented research papers in national and international conferences and seminars as an invited speaker, keynote speaker and general presenter. He attained six research project grants and completed them successfully as principal investigator. He has been a member of graduate research & scholarship & faculty research committees at different universities both at home and abroad.
+in Management Science, Lancaster University Management School, UK
+M. Sc. (Res.)
+in Pure Mathematics (
+First class first
+) from Dhaka University, Bangladesh.
+(Hons.) in Mathematics (
+First class 8th
+Selected Publications
+Hoque, M. A.
+(2021). An optimal solution policy to an integrated manufacturer-retailers problem with normal distribution of lead times of delivering equal and unequal-sized batches.
+(2), 483–512.
+https://doi.org/10.1007/s12597-020-00485-2
+(2020). A manufacturer-buyers integrated inventory model with various distributions of lead times of delivering equal- sized batches of a lot.
+Computers and Industrial Engineering
+https://doi.org/10.1016/j.cie.2020.106516
+Babu, M. A.,
+, & Uddin, M. S. (2020). A heuristic for obtaining better initial feasible solution to the transportation problem.
+(1), 221–245.
+https://doi.org/10.1007/s12597-019-00429-5
+Yusof, N. B.,
+, Steele, M. C., & Yong, S. Y. (2019). Extended investigation on road fatality in Brunei.
+International Journal of Injury Control and Safety Promotion
+(1), 21–29.
+https://doi.org/10.1080/17457300.2018.1476381
+Shahidul Islam, S. M., &
+(2019). An optimal policy for three-tier supply chain for processing an agricultural product with a stochastic demand.
+International Journal of Services and Operations Management
+(3), 287–310.
+https://doi.org/10.1504/IJSOM.2019.100969
+Islam, S. M. S., & Abdul Hoque, M. (2018). Single-vendor single-buyer optimal consignment policy with generic demand distribution by considering some realistic factors.
+International Journal of Operational Research
+(2), 141–163.
+https://doi.org/10.1504/IJOR.2018.089127
+Islam, S. M. S., &
+(2017). A joint economic lot size model for a supplier-manufacturer-retailers supply chain of an agricultural product.
+(4), 868–885.
+https://doi.org/10.1007/s12597-017-0309-6
+Islam, S. M. S.,
+, & Hamzah, N. (2017). Single-supplier single-manufacturer multi-retailer consignment policy for retailers’ generalized demand distributions.
+International Journal of Production Economics
+, 157–167.
+https://doi.org/10.1016/j.ijpe.2016.11.021
+Juman, Z. A. M. S., &
+(2015). An efficient heuristic to obtain a better initial feasible solution to the transportation problem.
+Applied Soft Computing Journal
+, 813–826.
+https://doi.org/10.1016/j.asoc.2015.05.009
+(2014). A heuristic solution technique to attain the minimal total cost bounds of transporting a homogeneous product with varying demands and supplies.
+European Journal of Operational Research
+(1), 146–156.
+https://doi.org/10.1016/j.ejor.2014.05.004
+(2014). , A Letter to the editor on “A note on ‘generalized single-vendor multi-buyer integrated inventory supply chain models with better synchronization’ and Comment on ‘An erratum on generalized single-vendor multi-buyer integrated inventory supply chain model.
+, 317–318.
+https://doi.org/10.1016/j.ijpe.2013.12.006
+(2014). A vendor-buyer optimal consignment policy for a seasonal product with uniform distribution of demand.
+Malaysian Journal of Science
+(2), 219–227.
+(2013). A vendor-buyer integrated production-inventory model with normal distribution of lead time.
+(2), 409–417.
+https://doi.org/10.1016/j.ijpe.2013.02.019
+(2013). A manufacturer-buyer integrated inventory model with stochastic lead times for delivering equal- And/or unequal-sized batches of a lot.
+Computers and Operations Research
+(11), 2740–2751.
+https://doi.org/10.1016/j.cor.2013.05.008
+Juman, Z. A. M. S.,
+, & Buhari, M. I. (2013). A sensitivity analysis and an implementation of the Well-known Vogel’s approximation method for solving unbalanced transportation problem.
+(1), 66–72.
+https://doi.org/10.22452/mjs.vol32no1.11
+(2011). An optimal solution technique to the single-vendor multi-buyer integrated inventory supply chain by incorporating some realistic factors.
+(1), 80–88.
+https://doi.org/10.1016/j.ejor.2011.05.036
+(2011). Generalized single-vendor multi-buyer integrated inventory supply chain models with a better synchronization.
+(2), 463–472.
+https://doi.org/10.1016/j.ijpe.2011.01.006
+(2009). An extended vendor-buyer integrated inventory model and its minimal cost solution technique.
+International Journal of Mathematical Modelling and Numerical Optimisation
+(1–2), 56–74.
+https://doi.org/10.1504/IJMMNO.2009.030087
+, & Goyal, S. K. (2009). An alternative simple solution algorithm of an inventory model with fixed and variable lead time crash costs under unknown demand distribution.
+International Journal of Systems Science
+(8), 821–827.
+https://doi.org/10.1080/00207720902961014
+(2009). An alternative optimal solution technique for a single-vendor single-buyer integrated production inventory model.
+International Journal of Production Research
+(15), 4063–4076.
+https://doi.org/10.1080/00207540801905478
+, & Goyal, S. K. (2008). An alternative heuristic solution technique for efficient management of the serial supply chain.
+International Journal of Business Innovation and Research
+(2), 177–189.
+https://doi.org/10.1504/IJBIR.2008.016651
+(2008). Synchronization in the single-manufacturer multi-buyer integrated inventory supply chain.
+(3), 811–825.
+https://doi.org/10.1016/j.ejor.2007.05.019
+(2007). An alternative model for integrated vendor-buyer inventory under controllable lead time and its heuristic solution.
+(6), 501–509.
+https://doi.org/10.1080/00207720701358966
+(2006). An optimal solution technique for the joint replenishment problem with storage and transport capacities and budget constraints.
+(2), 1033–1042.
+https://doi.org/10.1016/j.ejor.2005.06.022
+, & Kingsman, B. G. (2006). Synchronization in common cycle lot size scheduling for a multi-product serial supply chain.
+(1), 316–331.
+https://doi.org/10.1016/j.ijpe.2005.08.007
+, & Goyal, S. K. (2006). A heuristic solution procedure for an integrated inventory system under controllable lead-time with equal or unequal sized batch shipments between a vendor and a buyer.
+(2), 217–225.
+https://doi.org/10.1016/j.ijpe.2005.02.012
+(2006). An optimal policy for a two-echelon inventory/distribution system.
+International Journal of Information Systems for Logistics and Management
+(1), 7–25.
+, & Goyal, S. K. (2005). On lot streaming in multistage production systems.
+(2), 195–202.
+https://doi.org/10.1016/j.ijpe.2003.12.003
+, & Goyal, S. K. (2005). An algebraically derived minimal cost solution technique of the integrated vendor-buyer problem.
+International Journal of Operations Research
+(1), 43–48.
+, & Goyal, S. K. (2004). Some comments on “inventory models with fixed and variable lead time crash costs consideration.”
+Journal of the Operational Research Society
+(6), 674–676.
+https://doi.org/10.1057/palgrave.jors.2601762
+, & Goyal, S. K. (2000). Optimal policy for a single-vendor single-buyer integrated production-inventory system with capacity constraint of the transport equipment.
+(3), 305–315.
+https://doi.org/10.1016/S0925-5273(99)00082-1
+, & Kingsman, B. G. (1995). An optimal solution algorithm for the constant lot-size model with equal and unequal sized batch shipments for the single product multi-stage production system.
+(2), 161–174.
+https://doi.org/10.1016/0925-5273
+(95)00188-3
+Conferences
+(2019). Optimal solution techniques to alternative vendor-buyer models in two-stage supply chains with a stochastic lead time for delivering batches of a lot. In Z. F., C. F., & L. M. (Eds.),
+2019 International Conference on Industrial Engineering and Systems Management, IESM 2019
+. Shanghai, China: IEEE.
+https://doi.org/10.1109/IESM45758.2019.8948163
+(2014). An extension to single-manufacturer, multi-retailer consignment policy for retailers’ generalized demand distributions. In
+5th Brunei International Conference on Engineering and Technology, BICET 2014
+(Vol. 2014). Bandar Seri Begawan, Brunei: IET.
+https://doi.org/10.1049/cp.2014.1055
+Abdeen, M. S. J. Z., &
+(2014). An efficient heuristic approach for solving the transportation problem. In
+Proceedings of International Conference on Industrial Engineering and Operations Management (IOEM) 2014
+. Bali, Indonesia.
+(2014). A technical note on ‘An optimal solution technique to the single-vendor multi-buyer integrated inventory supply chain by incorporating some realistic factors. In
+• Linear & Non-linear programming, Integer and Dynamic Programming, Linear Algebra, Discrete Mathematics, Calculus, Numerical Methods, Mathematical Methods, Analytical Geometry, Ordinary Differential Equation, Algebraic Geometry, Real Analysis, Topology, Ring and Modules.
+• Management Science, Modeling of Supply Chains Problems, Network and Project Management, Scheduling, Heuristic Solution Techniques, Simulation, Queuing Theory, Forecasting, Markovian Decision Process,
+• Production and Inventory Control, Transportation System and Modelling, Production and Operations Management, Operations and supply Chain Management, Logistics and Transportation, Demand Planning and Fulfillment,
+• Probability and Statistics, Quantitative Methods in Business, Business Mathematics, Business Statistics,
+• Fortran, PASCAL and C++ Programming.
+Commonwealth Scholarship Award for Ph. D. study in England

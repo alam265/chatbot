@@ -1,0 +1,16 @@
+Source URL: https://www.bracu.ac.bd/information-technology
+Page Title: IT Systems Office | BRAC University
+
+IT Systems Office | BRAC University
+Skip to main content
+I'm looking for:
+Find your Program:
+The IT Systems Office is staffed by tech-savvy personnel who provide prompt service to students, faculty members and staff of BRAC University who use computers. Also the department is continuously striving to improve the services by introducing and developing new innovative ideas.
+The entire IT activity is centered among a data centre with a host of servers, switches and other connectivity devices, which effectively connects the eight campus buildings using Fibre Optic cables, spread around the premises. There is a NOC manned by skilled technical personnel who are continuously monitoring the network, bandwidth availability, system functions, mail services and other IT communications related activities.
+BRAC University is one of the very few private universities to have obtained connectivity with BdREN which in future shall be connected to TEIN (Trans Eurasian Information Network) to facilitate research collaborations.
+BRAC University has a website available at
+www.bracu.ac.bd
+which has a very modern look and helps in disseminating various information related to the University
+A new cloud based DR site for hosting crucial operational data and application software has already been commissioned, which shall provide data security and continued operation using geographically separated DR site premises in case disaster strikes the primary site.
+Following are services and supports provided by IT
+Request for Information
