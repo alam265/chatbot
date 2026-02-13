@@ -36,10 +36,11 @@ system_instruction=(
 
 )
 
+chat_responses = []
 
 @app.get("/home", response_class=HTMLResponse)
 def welcome(req: Request):
-    return templates.TemplateResponse("home.html", {"request": req})
+    return templates.TemplateResponse("home.html", {"request": req, "chat_responses": chat_responses})
 
 
 @app.websocket("/ws")
@@ -52,7 +53,7 @@ async def chat(websocket: WebSocket):
     )
     
     # Local history for this connection only
-    chat_response = []
+
     try:
         while True:
             user_input = await websocket.receive_text() 
@@ -61,6 +62,7 @@ async def chat(websocket: WebSocket):
             results = collection.query(
             query_texts=[user_input],
                 n_results=3
+        
             )
             retrieved_context = "\n\n".join(results['documents'][0])
             augmented_message = f"""
@@ -75,7 +77,7 @@ async def chat(websocket: WebSocket):
                 {user_input}
                 """
 
-            chat_response.append(user_input)
+            chat_responses.append(user_input)
             
             ai_response = ""
             response_stream = chat_session.send_message_stream(augmented_message)
@@ -83,16 +85,15 @@ async def chat(websocket: WebSocket):
                     if chunk.text:
                         ai_response += chunk.text
                         await websocket.send_text(chunk.text)
-                        await asyncio.sleep(0.10)
+                        await asyncio.sleep(0.07)
             
-            chat_response.append(ai_response)
+            chat_responses.append(ai_response)
            
 
     except WebSocketDisconnect:
         print("Client disconnected")
     except Exception as e:
         print(f"Error: {e}")
-
 
 
 
