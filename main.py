@@ -35,11 +35,11 @@ system_instruction=(
 
 )
 
-chat_responses = []
+
 
 @app.get("/home", response_class=HTMLResponse)
 def welcome(req: Request):
-    return templates.TemplateResponse("home.html", {"request": req, "chat_responses": chat_responses})
+    return templates.TemplateResponse("home.html", {"request": req})
 
 
 @app.websocket("/ws")
@@ -76,17 +76,14 @@ async def chat(websocket: WebSocket):
                 {user_input}
                 """
 
-            chat_responses.append(user_input)
-            
-            ai_response = ""
+             
             response_stream = chat_session.send_message_stream(augmented_message)
             for chunk in response_stream:
                     if chunk.text:
-                        ai_response += chunk.text
                         await websocket.send_text(chunk.text)
                         await asyncio.sleep(0.07)
             
-            chat_responses.append(ai_response)
+            
            
 
     except WebSocketDisconnect:

@@ -12,12 +12,6 @@
       </div>
       <div class="card-body chat-history" id="chatHistory">
         <!-- auto populate here -->
-        {% for response in chat_responses %}
-
-        <div class="{{ 'chat-message user-input' if loop.index0 is even else 'chat-message ai-response' }}">
-          {{ response }}
-        </div>
-        {% endfor %}
       </div>
     </div>
   </div>
